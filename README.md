@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duttprem&label=Profile%20views&color=0e75b6&style=flat" alt="duttprem" /> </p>
 
-- 🌱 I’m currently learning **React js** Redux
+- 🌱 I’m currently learning **React js** |**Redux**
 
 - 👨‍💻 My profile are available at [https://myportfolio-ruby-one.vercel.app/](https://myportfolio-ruby-one.vercel.app/)
 
